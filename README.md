@@ -4,7 +4,7 @@ This repository contains the core code for genomic prediction using raw SNP
 features, sequence-based embeddings, perturbation analyses, and environmental
 time-series representations.
 
-## Architecture
+## Schematic overview
 
 ![Project architecture](figure/architecture_overview.png)
 
