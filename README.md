@@ -6,9 +6,7 @@ time-series representations.
 
 ## Schematic overview
 
-<p align="center">
-  <img src="figure/architecture_overview.png" width="90%" alt="Project architecture">
-</p>
+![Project architecture](figure/architecture_overview.png)
 
 The project workflow is organized as follows:
 
